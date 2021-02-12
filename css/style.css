@@ -69,7 +69,7 @@ li a:hover {
     margin: 5% 20%;
 }
 
-.about-header{
+.about-header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
     font-size: 2.5rem;
@@ -99,6 +99,14 @@ li a:hover {
     text-align: center;
     margin-left:5%;
     margin-right:5%;
+  }
+
+  .petfood-heading h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-weight: bolder; */
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(238, 89, 34);
   }
   
   .petfood-img{
