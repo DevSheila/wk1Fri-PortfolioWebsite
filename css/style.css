@@ -1,5 +1,6 @@
 body{
     font-family: sans-serif;
+    background-color:  rgba(20, 18, 18, 0.986);
 }
 
 ul{
@@ -99,4 +100,5 @@ li a:hover {
 
 .about-content{
     text-align: left;
+    color: white;
 }
