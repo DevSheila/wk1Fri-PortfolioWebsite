@@ -55,4 +55,4 @@ $ git submodule add https://github.com/DevSheila/DevSheila.github.io.git
 
 ## Licence
 
-Copyright © 2015 Delani Studios
+MIT Licence
