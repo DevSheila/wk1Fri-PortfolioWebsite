@@ -16,7 +16,7 @@ It shows and explains what who i am , what am aboutr and projects i have done in
 * [Licence](#Licence)
 
 ## Demo
-Here is a working live demo :   https://devsheila.github.io/delani.github.io/
+Here is a working live demo :   https://devsheila.github.io/wk1Fri-PortfolioWebsite/
 ## Features
 
 1. Fully responsive
@@ -38,14 +38,14 @@ Here is a working live demo :   https://devsheila.github.io/delani.github.io/
 * You can also clone it directly to your folder:
 
 ```
-$ git clone https://github.com/DevSheila/DevSheila.github.io.git
+$ git clone https://devsheila.github.io/wk1Fri-PortfolioWebsite/
 
 ```
 
 * If you don't want to make any radical changes, include it as a git submodule.You  can now get new updates when they are available. To do so, :
 
 ```
-$ git submodule add https://github.com/DevSheila/DevSheila.github.io.git
+$ git submodule add https://devsheila.github.io/wk1Fri-PortfolioWebsite/
 
 ```
 
