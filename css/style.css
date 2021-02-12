@@ -94,3 +94,88 @@ li a:hover {
     text-align: left;
     color: white;
 }
+
+#petfood-section{
+    text-align: center;
+    margin-left:5%;
+    margin-right:5%;
+  }
+  
+  .petfood-img{
+    /* width: 300px; */
+    height: 300px;
+  }
+  
+  
+  
+  .petfood-box{
+    padding: 10px;
+    margin: 10px;
+   width:30%;
+   justify-content: center;
+   background-color: white;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid black; */
+  
+  }
+  
+  .petfood-box button{
+    font:inherit;
+    font-weight: 600;
+    padding: 0.6rem 2rem;
+    background:rgb(238, 89, 34) ;
+    color:  white;
+    border:1px solid;
+    transition: 100ms ease;
+    position: static;
+    width: 40%;
+    margin: 2rem;
+  
+  }
+  .petfood-box button:hover{
+    background-color: black;
+  }
+
+  
+@media(min-width:768px){
+    #services-list{
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+    }
+    .petfood-list{
+      display: flex;
+      justify-content: space-around;
+  
+    }
+    
+  }
+  
+  @media(max-width:768px){
+    .header-section{
+      height:50%;
+      width:auto;
+      font-size:10px;
+    }
+    .header-info{
+      width:30%;
+    }
+    .petfood-box{
+      margin: 20%;
+    }
+    .services-box{
+      margin:20%;
+    }
+    .petfood-box button{
+      width:auto;
+      margin: 20%;
+    }
+    .header-info button{
+      width:100%;
+      font-size: 7px;
+    }
+  }
+  
+  
+  
