@@ -19,6 +19,7 @@ It shows and explains what who i am , what am aboutr and projects i have done in
 Here is a working live demo :   https://devsheila.github.io/wk1Fri-PortfolioWebsite/
 ## Features
 
+
 1. Fully responsive
 
 1. Show case of projects done in the recent past
