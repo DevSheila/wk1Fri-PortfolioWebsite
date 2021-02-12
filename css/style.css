@@ -70,3 +70,33 @@ li a:hover {
   border:1px solid;
   position: relative;
 }
+.about-section {
+    text-align: center; 
+    width:70%;
+    margin: 5% 20%;
+}
+
+.about-header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    text-align: center;
+    color: rgb(238, 89, 34);
+}
+
+.about-box{
+    display: flex;
+}
+.about-img{
+    height:45%;
+    width:30%;
+    float:left;
+    border-radius: 50% ;
+    border-right: 4px solid rgb(238, 89, 34);
+    margin-right:5%
+
+}
+
+.about-content{
+    text-align: left;
+}
