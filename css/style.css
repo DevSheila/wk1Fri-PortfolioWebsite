@@ -138,3 +138,45 @@ li a:hover {
   }
 
 
+  
+  @media(min-width:768px){
+    #services-list{
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+    }
+    .petfood-list{
+      display: flex;
+      justify-content: space-around;
+  
+    }
+    
+  }
+  
+  @media(max-width:768px){
+    .header-section{
+      height:50%;
+      width:auto;
+      font-size:10px;
+    }
+    .header-info{
+      width:30%;
+    }
+    .petfood-box{
+      margin: 20%;
+    }
+    .services-box{
+      margin:20%;
+    }
+    .petfood-box button{
+      width:auto;
+      margin: 20%;
+    }
+    .header-info button{
+      width:100%;
+      font-size: 7px;
+    }
+  }
+  
+  
+  
