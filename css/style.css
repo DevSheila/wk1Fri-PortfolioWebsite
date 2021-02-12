@@ -137,6 +137,11 @@ li a:hover {
     background-color: black;
   }
 
+  .petfood-box button a{
+      color :white;
+      text-decoration:none;
+  }
+
 
   
   @media(min-width:768px){
