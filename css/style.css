@@ -44,7 +44,7 @@ li a:hover {
 
   .header-info h2{
     color: rgb(238, 89, 34);
-    font-size: larger;
+    font-size: 2.0 rem;
 
   }
 
@@ -60,6 +60,7 @@ li a:hover {
 
   .header-info p{
     color: white;
+    font-size: large;
   }
 
 
