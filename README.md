@@ -1,7 +1,7 @@
 # SHEILA'S PORTFOLIO-    Website
 ### Author- Sheila Sharon Wambui Karani.
 This is a portfolio website for myself
-It shows and explains what who i am , what am aboutr and projects i have done in the recent past.
+It shows and explains what who i am , what am about and projects i have done in the recent past.
 
 
 ## Table of contents
