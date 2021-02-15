@@ -100,13 +100,13 @@ li a:hover {
     color: white;
 }
 
-#petfood-section{
+#project-section{
     text-align: center;
     margin-left:5%;
     margin-right:5%;
   }
 
-  .petfood-heading h1{
+  .project-heading h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /* font-weight: bolder; */
     font-size: 2rem;
@@ -115,14 +115,14 @@ li a:hover {
     
   }
   
-  .petfood-img{
+  .project-img{
     /* width: 300px; */
     height: 300px;
   }
   
   
   
-  .petfood-box{
+  .project-box{
     padding: 10px;
     margin: 10px;
    width:30%;
@@ -134,7 +134,7 @@ li a:hover {
   
   }
   
-  .petfood-box button{
+  .project-box button{
     font:inherit;
     font-weight: 600;
     padding: 0.6rem 2rem;
@@ -147,16 +147,16 @@ li a:hover {
     margin: 2rem;
   
   }
-  .petfood-box button:hover{
+  .project-box button:hover{
     background-color: black;
   }
 
-  .petfood-box button a{
+  .project-box button a{
       color :white;
       text-decoration:none;
   }
 
-  .petfood-box p a{
+  .project-box p a{
     color:rgb(238, 89, 34) ;
     text-decoration: none;
   }
@@ -169,7 +169,7 @@ li a:hover {
       align-items: center;
       justify-content: space-around;
     }
-    .petfood-list{
+    .project-list{
       display: flex;
       justify-content: space-around;
   
@@ -186,13 +186,13 @@ li a:hover {
     .header-info{
       width:30%;
     }
-    .petfood-box{
+    .project-box{
       margin: 20%;
     }
     .services-box{
       margin:20%;
     }
-    .petfood-box button{
+    .project-box button{
       width:auto;
       margin: 20%;
     }
