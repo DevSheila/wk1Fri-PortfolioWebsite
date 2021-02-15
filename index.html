@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SHEILA PORTFOLIO</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -85,6 +86,55 @@
 
 </section>
     <!---------------------------------------------------END OF PROJECTS SECTION------------------------------------->
+
+
+    <!----------------------------------------------------CONTACT US SECTION------------------------------------->
+
+    <section class="page-section" id="contact">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">Contact Us</h2>
+            </div>
+            <form id="contactForm" action="public/js/contact_me.php" name="sentMessage" method="POST">
+                <div class="row  d-flex justify-content-center mb-5">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input class="form-control" id="name" type="text" placeholder="Name..." required/>
+                            
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input class="form-control" id="email" type="email" required />
+                            
+                        </div>
+                    </div>
+
+                    <div class="col-md-12">
+                        <div class="form-group form-group-textarea mb-md-0">
+                            <textarea class="form-control" id="message" placeholder="Your Message here..." cols="30" rows="10" required></textarea>
+                           
+                        </div>
+                    </div>
+                    
+                    <div class="text-center pt-3">
+                        <button class="btn btn-primary  text-uppercase form-control" id="sendMessageButton" type="submit">Submit</button>
+                    </div>
+                </div>
+                
+
+
+            </form>
+        </div>
+    </section>
+    <!---------------------------------------------------CONTACT US SECTION------------------------------------->
+
+    <!---------------------------------------------------FOOTER SECTION------------------------------------->
+
+    
+    <!---------------------------------------------------FOOTER SECTION------------------------------------->
+
 
 
 </body>
