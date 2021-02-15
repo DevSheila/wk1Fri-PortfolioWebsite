@@ -169,6 +169,13 @@ section #contactForm .form-control {
     color: white;
     font-family: cursive;
 }
+#contact{
+  margin: 20px 0;
+}
+
+#contact h2{
+  color:rgb(238, 89, 34);
+}
 
 
 
