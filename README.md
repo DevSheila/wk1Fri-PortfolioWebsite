@@ -1,7 +1,7 @@
 # SHEILA'S PORTFOLIO-    Website
 ### Author- Sheila Sharon Wambui Karani.
 This is a portfolio website for myself
-It shows and explains what who i am , what am aboutr and projects i have done in the recent past.
+It shows and explains what who i am , what am about and projects i have done in the recent past.
 
 
 ## Table of contents
@@ -16,7 +16,9 @@ It shows and explains what who i am , what am aboutr and projects i have done in
 * [Licence](#Licence)
 
 ## Demo
+
 Here is a working live demo :   https://devsheila.github.io/wk1Fri-PortfolioWebsite/
+
 ## Features
 
 
@@ -55,6 +57,7 @@ $ git submodule add https://devsheila.github.io/wk1Fri-PortfolioWebsite/
 
 
 ## Licence
+
 MIT License
 
 Copyright (c) 2021 DevSheila
@@ -76,3 +79,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
